@@ -1,0 +1,23 @@
+{
+    "header": {
+      "searchPlaceHolder": "Ara...",
+      "totalPrice": "Toplat Fiyat",
+      "user": "Kullanıcı",
+      "switchToDarkMode": "Karanlık temaya çevir",
+      "switchToLightMode": "Açık temaya çevir",
+      "language": "Dil"
+    },
+    "body" : {
+        "sortBy" :"Sırala",
+        "oldtoNew" : "Eskiden Yeniye",
+        "newtoOld" : "yeniden Eskiye",
+        "priceHighToLow" : "Yuksek Fiyattan Düşüğe",
+        "priceLowtoHigh" : "Düşük Fiyattan Yükseğe",
+        "searchBrands" : "Marka Ara",
+        "searchModels" : "Model Ara",
+        "searchPlaceHolder" : "Ara...",
+        "addToCart" : "Sepete Ekle",
+        "checkout" : "Sepete Git"
+    }
+  }
+  

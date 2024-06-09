@@ -1,0 +1,23 @@
+{
+    "header": {
+      "searchPlaceHolder": "Search...",
+      "totalPrice": "Total Price",
+      "user": "User",
+      "switchToDarkMode": "Switch to Dark Mode",
+      "switchToLightMode": "Switch to Light Mode",
+      "language": "Language"
+    },
+    "body" : {
+        "sortBy" :"Sort By",
+        "oldtoNew" : "Old to New",
+        "newtoOld" : "New to Old",
+        "priceHighToLow" : "Price High To Low",
+        "priceLowtoHigh" : "Price Low to High",
+        "searchBrands" : "Search Brands",
+        "searchModels" : "Search Models",
+        "searchPlaceHolder" : "Search...",
+        "addToCart" : "Add to Cart",
+        "checkout" : "Checkout"
+    }
+  }
+  
