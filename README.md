@@ -34,6 +34,8 @@ Bu projede istenilen tum teknolojileri kullandım ekstra olarak sorting ve filte
 - projede tum productlar'ı "framer motion" ile beraber akışkan bir şekilde listeledim.
 - projede "tailwind" ile beraber "dark-light mode" entegre ettim. kolaylıkla tema değiştirilebilir.
 - dil kutuphanesi için "i18" kullandım 2 dil desteklemekte(turkce/ingilizce). dil dosyası kendi içinde parçalara boldum(header/body olarak) boylelikle okunabilirliği kolaylaştırdım.
+- projeyi vercel ile deploy ettim. aşağıda linkine ulaşabilirsiniz.
+- https://basket-app-task.vercel.app/
 
 
 
