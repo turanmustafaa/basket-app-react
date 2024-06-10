@@ -36,7 +36,7 @@ export default function Header() {
                 <input
                     type="text"
                     className="pl-10 pr-4 py-2 border text-black"
-                    placeholder={t('header.searchPlaceholder', 'Search...')}
+                    placeholder={t('header.searchPlaceHolder', 'Search...')}
                     value={searchTerm}
                     onChange={handleSearchChange}
                 />
