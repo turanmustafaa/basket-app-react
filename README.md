@@ -18,7 +18,8 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
 
 # Projeyi Nasıl Geliştirdim
 
-Bu proje,ReactJs ve ReduxToolkit kullanılarak geliştirilmiştir. Aşağıda projenin geliştirilme sürecinde kullanılan yöntemler ve teknolojiler hakkında detaylı bilgiler bulunmaktadır:
+Bu projede istenilen tum teknolojileri kullandım ekstra olarak sorting ve filtering işlemleri ekleyerek ekstra fonksiyonellik kattım. projeyi ReactJs ve ReduxToolkit kullanılarak geliştirdim. Aşağıda projenin geliştirilme sürecinde kullandıgım yöntemler ve teknolojiler hakkında detaylı bilgiler bulunmaktadır:
+
 - projede mock data olarak https://5fc9346b2af77700165ae514.mockapi.io/ url'ini kullandım.
 - Projeyi "ReactJs" ile geliştirdim.
 - Projenin tum parçaları aktif olarak çalısmakta(sorting/ filtering/search filtering /localstorage products / total price etc. )
