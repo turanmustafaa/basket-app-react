@@ -23,6 +23,7 @@ Bu projede istenilen tum teknolojileri kullandım ekstra olarak sorting ve filte
 - projede mock data olarak https://5fc9346b2af77700165ae514.mockapi.io/ url'ini kullandım.
 - Projeyi "ReactJs" ile geliştirdim.
 - Projenin tum parçaları aktif olarak çalısmakta(sorting/ filtering/search filtering /localstorage products / total price etc. )
+- sepetteki tum productlar localstorage'da urun varsa kullanılmakta boylelikle ürünler fake db mantıgında sepette korunmakta.
 - Projeyi tekrar olçeklenebilir hale getirdim. Layout sistemini entegre ettim. Mimari değiştirmeden büyütülebilir ve esnek bir yapıya sahip. Farklı modallar, bileşenler vb. esnek bir şekilde entegre edilebilir ve tekrar kullanılabilir.
 - Veri alışverişi işlemleri için "Redux-toolkit" ve "props" 'lar kullandım.
 - "Redux" yapısını moduler olarak kurdum. boylelikle olceklenebilir olarak bir başkası kodun uzerinden rahatlıkla devam edebilir. 
